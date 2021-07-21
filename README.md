@@ -1,5 +1,7 @@
 # Demo Code for Intro to Network Science Session in R
 
+`correspondence_network_sample.R` - contains demo code in session
+
 ### R Users Group Philippines
 
 Reading List:
