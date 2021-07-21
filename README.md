@@ -5,7 +5,7 @@
 ### R Users Group Philippines
 
 Reading List:
-- (1) **Netowrk Science** by Albert-László Barabási (http://networksciencebook.com/)
+- (1) **Network Science** by Albert-László Barabási (http://networksciencebook.com/)
 - (2) **Static and dynamic network visualization with R** by Katya Ognyanova (https://kateto.net/network-visualization)
 - (3) **Awesome Network Analysis** (https://github.com/briatte/awesome-network-analysis)
 - (4) **networks demystified** by Scott Weingart (https://scottbot.net/tag/networks-demystified/)
